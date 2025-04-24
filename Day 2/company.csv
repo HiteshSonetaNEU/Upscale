@@ -1,0 +1,6 @@
+EEID,name,gender,salary
+E001,John Smith,Male,65000
+E002,Sarah Johnson,Female,72000
+E001,Michael Lee,,58000
+E004,Emma Brown,Female,81000
+E005,David Chen,Male,67500
